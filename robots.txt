@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /dist/
 Sitemap: https://dr3adinstagrammer.github.io/insta/sitemap.xml
+Host: https://zatroih.ru/
